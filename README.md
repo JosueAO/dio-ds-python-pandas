@@ -14,7 +14,7 @@
 
 * [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb?hl=pt-BR)
 
-- Bibliticas para visualização: Matplotlib, ggplot e Seaborn.
+- Bibliotecas para visualização: Matplotlib, ggplot e Seaborn.
 
 ### Todos os dados(Dataset) estão na pasta Datasets
 
